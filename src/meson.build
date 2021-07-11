@@ -1,5 +1,6 @@
 gnome_finance_sources = [
   'main.cpp',
+  'application.cpp',
   'main-window.cpp',
 ]
 
